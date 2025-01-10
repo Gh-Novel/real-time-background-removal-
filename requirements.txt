@@ -1,0 +1,11 @@
+opencv-python-headless
+mediapipe
+numpy
+pyaudio
+wavefile
+threading2
+os-sys
+time
+datetime
+pydub
+moviepy
