@@ -49,7 +49,13 @@ Synchronized Recording: Ensures both audio and video durations match.
 #How It Works
 
 # Real-Time Segmentation:
-MediaPipe's Selfie Segmentation model processes each video frame to replace the background with a custom image.  
+MediaPipe's Selfie Segmentation model processes each video frame to replace the background with a custom image.
+
+![image_1](https://github.com/user-attachments/assets/50331d2b-5367-44a4-aba8-1cc9f8526eed) 
+
+![image_2](https://github.com/user-attachments/assets/52baed80-8a6a-49c7-aac7-f436090d3ee2)
+
+
 
 
 # Audio-Video Recording:
